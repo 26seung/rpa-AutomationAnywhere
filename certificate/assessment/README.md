@@ -1,9 +1,17 @@
 # 강의 중간 테스트 문/답
 
-- 1번 카테고리 (Hello Bot: Introduction to RPA and Use Cases v11)
-- 2번 카테고리 (Build The Digital Workforce: Create Bots Using Automation Anywhere V11.0)
-- 3번 카테고리 (Lead the Digital Workforce: Monitor, Measure & Manage Bot performance V11.0)
-- 4번 카테고리 (Automation Anywhere Certified Advanced RPA Professional (V11.0))
+- [강의 중간 테스트 문/답](#강의-중간-테스트-문답)
+  - [1-1. Assessment](#1-1-assessment)
+  - [2-1. Assessment](#2-1-assessment)
+  - [2-2. Assessment (Bot Creator)](#2-2-assessment-bot-creator)
+  - [2-2. Assessment (Metabot Assessment)](#2-2-assessment-metabot-assessment)
+  - [Assessment (Bot Insight Assessment)](#assessment-bot-insight-assessment)
+  - [3번. 카테고리 (Lead the Digital Workforce: Monitor, Measure & Manage Bot performance V11.0)](#3번-카테고리-lead-the-digital-workforce-monitor-measure--manage-bot-performance-v110)
+  - [3-1. Assessment (Web Control Room Assessment)](#3-1-assessment-web-control-room-assessment)
+  - [4번 카테고리 (Automation Anywhere Certified Advanced RPA Professional (V11.0))](#4번-카테고리-automation-anywhere-certified-advanced-rpa-professional-v110)
+  - [4-1. 문제풀이](#4-1-문제풀이)
+      - [참고 사이트](#참고-사이트)
+
 
 ---
 
@@ -50,65 +58,65 @@
  
 9. Identify the DASHBOARDS audit's widget that provides a chart-based view of activities filtered on the sourcecolumn in the Audit Log page for as specific time period?
    - Event Distribution by Activity Type
-   - Activity Audit Trail by Host Machine Type
+   - `Activity Audit Trail by Host Machine Type`
    - Activity Audit Trail by User Name
  
 10. Bot runners can only execute once they are registered, identified and authenticated by the ____?
-       - Control Room
+       - `Control Room`
        - Automation Anywhere Enterprise
        - Users of the application
  
 11. Which among the given features of Automation Anywhere enables Bots to sense and automatically adjust toapplication changes immediately?
-       - Auto-calibration Technology
+       - `Auto-calibration Technology`
        - Embedded Analytics
        - Automated Processes
  
  12. Tasks made using any recorder can be edited in the Task Editor. The given statement is True/False?
-    - True
-    - False
+      - `True`
+      - False
  
  13.  Which of the following is a valid recorder in Automation Anywhere Enterprise?
         - Object Recorder
         - Browser Recorder
-        - Desktop Recorder
+        - `Desktop Recorder`
  
  14.   Auto login will allow your computer to run a task even if the computer is locked or logged off. The givenstatement is True/False?
-       - True
+       - `True`
        - False
  
  15.  Automation can be extended to business processes consisting of conditional processing using whichcapability of Automation Anywhere?
          - Process Designer
-         - Workflow Designer
+         - `Workflow Designer`
          - Bots Designer
  
  16.   Which among the given serves as the centralized secured component within Automation Anywhere'sarchitecture to save sensitive data?
           - SQL database
-          - Credential Vault
+          - `Credential Vault`
           - Version Control
  
  17.  RPA is meant for Enterprise and is scalable but it is limited in its ability for complex processes. The givenstatement is True/False?
       - True
-      - False
+      - `False`
  18. Use cases for RPA include processes from which of the following industries?
        - Financial and banking
        - Technology and Software
-       - All of the above
+       - `All of the above`
  
- 1.  Credential Vault uses industry standard enterprise-grade security encryption and can be accessed by allusers across the enterprise. The given statement is True/False?
+ 19.  Credential Vault uses industry standard enterprise-grade security encryption and can be accessed by allusers across the enterprise. The given statement is True/False?
       - True
-      - False
- 2.   Control Room, Development Client and Runtime client are key components of Automation Anywherearchitecture. Development client and Runtime Client are also known as ___________?
-      - Bot Developers and Bot Creators
-      - Bot Creators and Bot Executors
-      - Bot Creators and Bot Runners
+      - `False`
+ 20.   Control Room, Development Client and Runtime client are key components of Automation Anywherearchitecture. Development client and Runtime Client are also known as ___________?
+         - Bot Developers and Bot Creators
+         - Bot Creators and Bot Executors
+         - `Bot Creators and Bot Runners`
  
- 3.  Identify the bots that are the core of automation, replicating and completing repetitive rules-based tasks thatrely on structured data?1. Task BotsRPA Automation Anywhere
-     - Task Bots
-     - IQ Bots
-     - Meta Bots
+ 21.  Identify the bots that are the core of automation, replicating and completing repetitive rules-based tasks thatrely on structured data?
+         - Task Bots
+         - IQ Bots
+         - `Meta Bots`
 
 12. In the Meta Bot designer, under Assets, which among the given option allows to edit properties for therecorded/added screens?
-       - Add Screen
+       - `Add Screen`
        - Configure
        - Calibrat
 
@@ -399,70 +407,70 @@
    - Audit log
 
 10. Rohit wants to access a Bot from the laptop while travelling. Which interface will help him to complete his task?
-   - Audit Interface
-   - `Control Room Interface`
-   - Workload Interface
-   - Device Interface
+    - Audit Interface
+    - `Control Room Interface`
+    - Workload Interface
+    - Device Interface
 
 11. Priya has opened up the Dashboard. She is now wondering what the insight component helps with. Help her by choosing the right option.
-   - Visual representation of log
-   - Information about the Bot runner machine
-   - Displays status of device pools
-   - `Analyse task data in real-time`
+       - Visual representation of log
+       - Information about the Bot runner machine
+       - Displays status of device pools
+       - `Analyse task data in real-time`
 
 12. Which of the following actions are allowed by the Action bar?
-   - `Refresh the table contents to view the latest audit logs`
-   - `Export data based on month, filters or selection`
-   - `Show or hide specific columns in the audit table`
-   - Controls work items in queues
+       - `Refresh the table contents to view the latest audit logs`
+       - `Export data based on month, filters or selection`
+       - `Show or hide specific columns in the audit table`
+       - Controls work items in queues
 
 13. What actions can you perform via the Audit Log page?
-   - `Status of the action`
-   - `Type of action performed`
-   - `Date and time of the action`
-   - List of device pool available
+       - `Status of the action`
+       - `Type of action performed`
+       - `Date and time of the action`
+       - List of device pool available
 
 14. In My Device tab, what are the three status that a device can be in?
-   - `Connected`
-   - `Disconnected`
-   - `Offline`
-   - Error
+       - `Connected`
+       - `Disconnected`
+       - `Offline`
+       - Error
 
 15. Which of the following details are displayed on the Home dashboard?
-   - `Active users`
-   - `Registered clients`
-   - `Failed tasks`
-   - Memory and HDD utilization
+       - `Active users`
+       - `Registered clients`
+       - `Failed tasks`
+       - Memory and HDD utilization
 
 16. Cyrus needs to monitor certain events like the highest percentage of a particular activity being performed based on either user name or host machine type. Which of the following components will help him achieve this task?
-   - `Audit component`
-   - Home component
-   - Device component
-   - Insight component
+       - `Audit component`
+       - Home component
+       - Device component
+       - Insight component
 
 17. Which dashboard helps consumers to analyse task data and enhance widgets?
-   - `Insights Dashboard`
-   - Audit Dashboard
-   - Workload Dashboard
-   - Devices Dashboard
+       - `Insights Dashboard`
+       - Audit Dashboard
+       - Workload Dashboard
+       - Devices Dashboard
 
 18. Which of the following is not a component of the Dashboard?
-   - Home
-   - Bots
-   - `Failure Log`
-   - Workload
+       - Home
+       - Bots
+       - `Failure Log`
+       - Workload
 
 19. Which option schedules a Bot to be executed at a specific point in time
-   - `Schedule Bots`
-   - Run Bot Now
-   - Import Bots
-   - Export Bots
+       - `Schedule Bots`
+       - Run Bot Now
+       - Import Bots
+       - Export Bots
 
 20. Which of the following components is not a part of the Activity page?
-   - Historical Activity
-   - `Workload Activity`
-   - Scheduled Activity
-   - In-progress Activity
+       - Historical Activity
+       - `Workload Activity`
+       - Scheduled Activity
+       - In-progress Activity
 
 ---
 
@@ -475,3 +483,4 @@
 #### 참고 사이트
    - [기출 사이트 1](https://pdfcoffee.com/aa-advance-v111-pdf-free.html)
    - [기출 2](https://pdfcoffee.com/q-amp-a-exam-adv-v11pdf-3-pdf-free.html)
+   - [기출 3](https://studylib.net/doc/25495171/questoes-easy)
