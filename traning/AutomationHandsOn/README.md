@@ -6,6 +6,7 @@
 
 - 중점사항
   - SQL 쿼리문을 활용하여 엑셀 데이터 삽입
+    - ```Provider=Microsoft.ACE.OLEDB.12.0;Data Source=$vFileName$;Extended Properties="Excel 12.0 Xml;HDR=YES;IMEX=YES";```
   - INSERT 시에는 데이터 값 하단에 새로운 값이 추가되며, UPDATE 시에는 수정이라고 생각하면 되고 원하는 조건에 값을 수정해 넣을수 있다. (WHERE 조건문을 넣어주어야 함)
   - HTML Value 값은 변경 되는 값이기 때문에 Search Criteria : 에서 체크를 제거해야 정확한 값을 추출 가능하다
   - Dataset Column 변수를 활용한 설계
@@ -29,6 +30,7 @@
 
 ## 03. SAP_Automation 실습
 
+OCR 인식률이 안좋아서 사용 안함
 
 ---
 
